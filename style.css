@@ -1,3 +1,5 @@
+/*---EXERCICE 5-----*/
+
 .excel-style-table {
     margin-left: 50px;
     border-collapse: collapse;
@@ -27,6 +29,8 @@
     ;
     /* Add a top border to create a line above each row */
 }
+
+/*---EXERCICE 6-----*/
 
 
 .blockdiv1 {
@@ -102,6 +106,9 @@
 .clearfloat {
     clear: both;
 }
+
+
+/*---EXERCICE 7-----*/
 
 
 .form-container1 {
