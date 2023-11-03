@@ -35,14 +35,14 @@
 
 .blockdiv1 {
     background-color: rgb(35, 201, 35);
-    height: 20px;
+    height: 30px;
     width: 80%;
     float: left;
 }
 
 .blockdiv2 {
     background-color: rgb(32, 12, 214);
-    height: 20px;
+    height: 30px;
     width: 20%;
     float: right;
 }
@@ -72,13 +72,6 @@
     background-color: rgb(219, 163, 9);
     height: 35px;
     width: 23%;
-    float: left;
-}
-
-.blockdiv7 {
-    background-color: rgb(10, 156, 125);
-    height: 35px;
-    width: 22%;
     float: left;
 }
 
@@ -122,6 +115,7 @@
     background-color: rgba(103, 153, 247, 0.932);
     width: 110px;
 }
+
 
 .form-container2 {
     height: 140px;
